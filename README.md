@@ -32,3 +32,10 @@ losses_usdm_ppp_total.	Total losses in USDM PPP (Integer)
 rw_country_code:	Country code (String)
 
 rw_country_name:	Country name (String)
+
+
+# Comparison of nation's climate risk ranking against other nations in order to better allocate resources and prioritize areas of research or infrastructure projects
+In the "Comparison by Nation" file, it is possible to observe the most and least affected countries using various indicators
+
+# Interactive map that graphically represent the relationship between fatality rates, economic losses and climate ranking for different countries around the world
+The Dashboard shows an interactive map related to the *Rank*, *Score*, *Fatality*, and *GDP Loss* indicators in the dataset
